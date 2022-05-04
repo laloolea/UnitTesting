@@ -1,0 +1,20 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/bin/Debug/netstandard2.1/UnitTestingXUnitIntro.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/bin/Debug/netstandard2.1/UnitTestingXUnitIntro.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/bin/Debug/netstandard2.1/UnitTestingXUnitIntro.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTestingXUnitIntro/UnitTestingXUnitIntro/obj/Debug/netstandard2.1/UnitTestingXUnitIntro.pdb
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\bin\Debug\netstandard2.1\UnitTestingXUnitIntro.deps.json
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\bin\Debug\netstandard2.1\UnitTestingXUnitIntro.dll
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\bin\Debug\netstandard2.1\UnitTestingXUnitIntro.pdb
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.csproj.AssemblyReference.cache
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.AssemblyInfoInputs.cache
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.AssemblyInfo.cs
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.csproj.CoreCompileInputs.cache
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.dll
+C:\Users\a842051\OneDrive - Atos\Documents\UnitTestingXUnitIntro\UnitTestingXUnitIntro\obj\Debug\netstandard2.1\UnitTestingXUnitIntro.pdb

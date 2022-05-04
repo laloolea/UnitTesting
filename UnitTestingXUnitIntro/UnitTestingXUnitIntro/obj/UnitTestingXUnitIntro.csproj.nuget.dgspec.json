@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a842051\\OneDrive - Atos\\Documents\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a842051\\OneDrive - Atos\\Documents\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a842051\\OneDrive - Atos\\Documents\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro.csproj",
+        "projectName": "UnitTestingXUnitIntro",
+        "projectPath": "C:\\Users\\a842051\\OneDrive - Atos\\Documents\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro.csproj",
+        "packagesPath": "C:\\Users\\a842051\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a842051\\OneDrive - Atos\\Documents\\UnitTestingXUnitIntro\\UnitTestingXUnitIntro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a842051\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

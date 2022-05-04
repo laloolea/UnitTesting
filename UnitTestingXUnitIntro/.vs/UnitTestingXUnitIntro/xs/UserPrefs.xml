@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7897DB6B-C8AF-4713-9C40-33D7C02CD668}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestingXUnitIntro.Tests/MailValidatorShould.cs">
+    <Files>
+      <File FileName="UnitTestingXUnitIntro.Tests/MailValidatorShould.cs" Line="68" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTestingXUnitIntro" expanded="True">
+            <Node name="UnitTestingXUnitIntro" expanded="True" />
+            <Node name="UnitTestingXUnitIntro.Tests" expanded="True">
+              <Node name="MailValidatorShould.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnitTestingXUnitIntro.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
