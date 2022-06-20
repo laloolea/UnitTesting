@@ -8,6 +8,7 @@ pipeline{
         script{
           def test = 2+2>3?'cool':'not cool'
           echo test
+          echo 'Application build each 1 min'
         }
       }
     }
